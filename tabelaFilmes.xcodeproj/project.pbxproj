@@ -16,6 +16,7 @@
 		4219D41627AC5CFE0027B37D /* tabelaFilmesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4219D41527AC5CFE0027B37D /* tabelaFilmesTests.swift */; };
 		4219D42027AC5CFE0027B37D /* tabelaFilmesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4219D41F27AC5CFE0027B37D /* tabelaFilmesUITests.swift */; };
 		4219D42227AC5CFE0027B37D /* tabelaFilmesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4219D42127AC5CFE0027B37D /* tabelaFilmesUITestsLaunchTests.swift */; };
+		4219D42F27AC5D870027B37D /* Filme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4219D42E27AC5D870027B37D /* Filme.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4219D41B27AC5CFE0027B37D /* tabelaFilmesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tabelaFilmesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4219D41F27AC5CFE0027B37D /* tabelaFilmesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabelaFilmesUITests.swift; sourceTree = "<group>"; };
 		4219D42127AC5CFE0027B37D /* tabelaFilmesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabelaFilmesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4219D42E27AC5D870027B37D /* Filme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filme.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4219D3FE27AC5CFB0027B37D /* AppDelegate.swift */,
 				4219D40027AC5CFB0027B37D /* SceneDelegate.swift */,
 				4219D40227AC5CFB0027B37D /* ViewController.swift */,
+				4219D42E27AC5D870027B37D /* Filme.swift */,
 				4219D40427AC5CFB0027B37D /* Main.storyboard */,
 				4219D40727AC5CFD0027B37D /* Assets.xcassets */,
 				4219D40927AC5CFD0027B37D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				4219D40327AC5CFB0027B37D /* ViewController.swift in Sources */,
 				4219D3FF27AC5CFB0027B37D /* AppDelegate.swift in Sources */,
 				4219D40127AC5CFB0027B37D /* SceneDelegate.swift in Sources */,
+				4219D42F27AC5D870027B37D /* Filme.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
